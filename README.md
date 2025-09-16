@@ -3,13 +3,18 @@
 
 Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Software da UTFPR - Campus Cornélio Procópio. 
 
-Link do Padlet:
+Link do Padlet: https://padlet.com/carlosg2024/kanban-requisitos-de-software-8jszrnig7zie6ocz
 
 ## 1. Introdução
 
 ***1.1.  Nome do Grupo***
 
-Indicar o nome e github dos integrantes do grupo
+Integrantes:
+- Felipe Rodrigues Dummer (feliperdummer)
+- Carlos Eduardo Gonçalves (Carloss0101)
+- João Caetano Biagio Lins (jcaetano01)
+- Otávio Cezar Neves (ODSFKOFS)
+- Thales Kohki Hasegawa (kohki-ka)
 
 ***1.2.  Nome do Sistema***
 
