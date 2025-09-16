@@ -13,7 +13,7 @@ Integrantes:
 - Felipe Rodrigues Dummer (feliperdummer)
 - Carlos Eduardo Gonçalves (Carloss0101)
 - João Caetano Biagio Lins (jcaetano01)
-- Otávio Cezar Neves (ODSFKOFS)
+- Otávio Cezar Neves (Otavioneves1)
 - Thales Kohki Hasegawa (kohki-ka)
 
 ***1.2.  Nome do Sistema***
