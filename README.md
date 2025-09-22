@@ -60,7 +60,8 @@ Estudantes, Professores, Funcionários e Visitantes do campus.
 
 ***2.1. Requisitos Funcionais***
 
-*<Link, imagem, arquivo com os requisitos funcionais.>*
+<img width="1280" height="719" alt="P-Photoroom" src="https://github.com/user-attachments/assets/52307687-9fa8-444f-b60c-e9c678b0a84b" />
+
 
 ***2.2. Requisitos Não Funcionais***
 
