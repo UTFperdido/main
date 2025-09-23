@@ -38,19 +38,19 @@ Estudantes, Professores, Funcionários e Visitantes do campus.
 
 ***Análise da situação atual:***
 
-Atualmente, estudantes, professores, funcionários e visitantes enfrentam dificuldades para se localizar no campus. Muitos precisam pedir informações a outras pessoas, depender de placas de sinalização ou recorrer a mapas impressos, que frequentemente estão desatualizados. Isso gera atrasos, confusão e frustração, já que os usuários precisam descobrir sozinhos onde ficam os locais e qual o melhor caminho para chegar até eles.
+
 
 ***Análise das tarefas depois:***
 
-Com o UTFperdido, a experiência se torna mais simples e rápida. O usuário poderá acessar o mapa digital atualizado, pesquisar pelo destino e escolher o tipo de rota desejada, recebendo instruções claras em texto ou áudio. Além disso, será possível salvar locais favoritos para acesso rápido. Assim, basta saber o nome do local para encontrar o caminho de forma eficiente, reduzindo o tempo de deslocamento e evitando estresse.
+
 
 ***Cenário: Antes***
 
-*<Preencher com o cenário idealizado antes da aplicação do seu sistema.>*
+Atualmente, estudantes, professores, funcionários e visitantes enfrentam dificuldades para se localizar no campus. Muitos precisam pedir informações a outras pessoas, depender de placas de sinalização ou recorrer a mapas impressos, que frequentemente estão desatualizados. Isso gera atrasos, confusão e frustração, já que os usuários precisam descobrir sozinhos onde ficam os locais e qual o melhor caminho para chegar até eles.
 
 ***Cenário: Depois***
 
-*<Preencher com o cenário idealizado depois da aplicação do seu sistema.>*
+Com o UTFperdido, a experiência se torna mais simples e rápida. O usuário poderá acessar o mapa digital atualizado, pesquisar pelo destino e escolher o tipo de rota desejada, recebendo instruções claras em texto ou áudio. Além disso, será possível salvar locais favoritos para acesso rápido. Assim, basta saber o nome do local para encontrar o caminho de forma eficiente, reduzindo o tempo de deslocamento e evitando estresse.
 
 ## 2. Documentos gerais no repositório
 
