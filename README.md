@@ -36,17 +36,13 @@ Estudantes, Professores, Funcionários e Visitantes do campus.
 
 *<Imagem, arquivo (PDF), link com as Personas.>*
 
-***Análise da situação atual: antes da introdução de sua solução***
+***Análise da situação atual:***
 
-*`1. O que as pessoas fazem?`*
-*`2. Quais os artefatos envolvidos?`*
-*`3. O que elas precisam saber?`*
+Atualmente, estudantes, professores, funcionários e visitantes enfrentam dificuldades para se localizar no campus. Muitos precisam pedir informações a outras pessoas, depender de placas de sinalização ou recorrer a mapas impressos, que frequentemente estão desatualizados. Isso gera atrasos, confusão e frustração, já que os usuários precisam descobrir sozinhos onde ficam os locais e qual o melhor caminho para chegar até eles.
 
-***Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:***
+***Análise das tarefas depois:***
 
-*`1. O que as pessoas fazem?`*
-*`2. Quais os artefatos envolvidos?`*
-*`3. O que elas precisam saber?`*
+Com o UTFperdido, a experiência se torna mais simples e rápida. O usuário poderá acessar o mapa digital atualizado, pesquisar pelo destino e escolher o tipo de rota desejada, recebendo instruções claras em texto ou áudio. Além disso, será possível salvar locais favoritos para acesso rápido. Assim, basta saber o nome do local para encontrar o caminho de forma eficiente, reduzindo o tempo de deslocamento e evitando estresse.
 
 ***Cenário: Antes***
 
