@@ -34,7 +34,8 @@ Estudantes, Professores, Funcionários e Visitantes do campus.
 
 ***Personas:***
 
-*<Imagem, arquivo (PDF), link com as Personas.>*
+[Personas.zip](https://github.com/user-attachments/files/22503288/Personas.zip)
+
 
 ***Análise da situação atual:***
 
