@@ -62,7 +62,7 @@ Com o UTFperdido, a experiência se torna mais simples e rápida. O usuário pod
 
 ***2.2. Requisitos Não Funcionais***
 
-*<Link, imagem, arquivo com os requisitos não funcionais.>*
+<img width="666" height="374" alt="P (1) (1)" src="https://github.com/user-attachments/assets/9aadc56d-ee0e-4676-92b5-70ea9de7b703" />
 
 ***2.3. Perguntas***
 
