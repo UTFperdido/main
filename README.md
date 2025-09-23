@@ -38,11 +38,11 @@ Estudantes, Professores, Funcionários e Visitantes do campus.
 
 ***Análise da situação atual:***
 
-
+As pessoas se perdem facilmente por não conseguir achar a sala / bloco que desejam. Precisam pedir ajuda a diversas pessoas diferentes, que resulta em informações diversas e possivelmente erradas. Isso resulta em frustração e atraso para seus devidos compromissos.
 
 ***Análise das tarefas depois:***
 
-
+Na palma da mão, elas tem acesso a um mapa interativo do campus a qualquer momento, tendo informações cruciais como blocos, salas, pontos de referência, entre outros. A taxa de perda no campus é bem menor e certamente não é mais uma razão de atraso para as aulas.
 
 ***Cenário: Antes***
 
