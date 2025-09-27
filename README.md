@@ -62,32 +62,33 @@ Com o UTFperdido, a experiência se torna mais simples e rápida. O usuário pod
 
 <img width="1280" height="719" alt="P (1)-Photoroom" src="https://github.com/user-attachments/assets/b5270a58-adf6-47aa-8022-a6a0c3fcacc1" />
 
+
 ***2.3. Dependencias***
 
 <img width="1280" height="719" alt="Requisitos de Software-Photoroom" src="https://github.com/user-attachments/assets/9ba84356-8955-4aaa-928b-6ed84a0fd7ed" />
 
 
-***2.3. Perguntas***
+***2.4. Perguntas***
 
 *<Arquivo com as perguntas realizadas na entrevista .>*
 
-***2.4. Entrevista***
+***2.5. Entrevista***
 
 *<Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>*
 
-***2.5. Histórias do Usuário***
+***2.6. Histórias do Usuário***
 
 *<Imagem, arquivo (PDF), link com as Histórias de Usuário.>*
 
-***2.6. Diagramas de Caso de Uso e Especificações***
+***2.7. Diagramas de Caso de Uso e Especificações***
 
 *<Imagem, arquivo (PDF), link com Diagrama de Caso de Uso.>*
 
-***2.7. Diagramas de Atividades***
+***2.8. Diagramas de Atividades***
 
 *<Imagem, arquivo (PDF), link com Diagrama de Atividades.>*
 
-***2.8. Protótipos***
+***2.9. Protótipos***
 
 *<Imagem, arquivo (PDF), link com Protótipo.>*
 
