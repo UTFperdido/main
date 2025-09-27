@@ -30,8 +30,6 @@ Estudantes, Professores, Funcionários e Visitantes do campus.
 
 ***1.3. Descrição dos usuários***
 
-*<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>*
-
 ***Personas:***
 
 [Personas.zip](https://github.com/user-attachments/files/22503288/Personas.zip)
