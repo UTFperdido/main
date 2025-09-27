@@ -62,6 +62,10 @@ Com o UTFperdido, a experiência se torna mais simples e rápida. O usuário pod
 
 <img width="1280" height="719" alt="P (1)-Photoroom" src="https://github.com/user-attachments/assets/b5270a58-adf6-47aa-8022-a6a0c3fcacc1" />
 
+***2.3. Dependencias***
+
+<img width="1280" height="719" alt="Requisitos de Software-Photoroom" src="https://github.com/user-attachments/assets/9ba84356-8955-4aaa-928b-6ed84a0fd7ed" />
+
 
 ***2.3. Perguntas***
 
