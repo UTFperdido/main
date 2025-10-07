@@ -55,45 +55,34 @@ Com o UTFperdido, a experiência se torna mais simples e rápida. O usuário pod
 
 ***2.1. Requisitos Funcionais***
 
-<img width="1280" height="719" alt="P-Photoroom" src="https://github.com/user-attachments/assets/52307687-9fa8-444f-b60c-e9c678b0a84b" />
-
+<img width="1280" height="719" alt="4-Photoroom" src="https://github.com/user-attachments/assets/20689830-c383-4755-a9c1-2f7e52f84706" />
 
 ***2.2. Requisitos Não Funcionais***
 
-<img width="1280" height="719" alt="P (1)-Photoroom" src="https://github.com/user-attachments/assets/b5270a58-adf6-47aa-8022-a6a0c3fcacc1" />
+<img width="1280" height="719" alt="5-Photoroom" src="https://github.com/user-attachments/assets/6ec96287-527b-49c5-aad4-4a3569af0627" />
 
-
-***2.3. Dependencias***
-
-<img width="1280" height="719" alt="Requisitos de Software-Photoroom" src="https://github.com/user-attachments/assets/9ba84356-8955-4aaa-928b-6ed84a0fd7ed" />
-
-
-***2.4. Perguntas***
+***2.3. Perguntas***
 
 *<Arquivo com as perguntas realizadas na entrevista .>*
 
-***2.5. Entrevista***
+***2.4. Entrevista***
 
 *<Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>*
 
-***2.6. Histórias do Usuário***
+***2.5. Histórias do Usuário***
 
 *<Imagem, arquivo (PDF), link com as Histórias de Usuário.>*
 
-***2.7. Diagramas de Caso de Uso e Especificações***
+***2.6. Diagramas de Caso de Uso e Especificações***
 
 *<Imagem, arquivo (PDF), link com Diagrama de Caso de Uso.>*
 
-***2.8. Diagramas de Atividades***
+***2.7. Diagramas de Atividades***
 
 *<Imagem, arquivo (PDF), link com Diagrama de Atividades.>*
 
-***2.9. Protótipos***
+***2.8. Protótipos***
 
 *<Imagem, arquivo (PDF), link com Protótipo.>*
-
-## Referências
-
-*<Esta seção é destinada à descrição das referências utilizadas pelo documento, como por exemplo, URLs e livros. Ver exemplo a seguir:>*
 
 [1] “Glossário da _USina_”, <_id_doc glossário_>, Versão <_versão_>. Localização: <_localização_>.
