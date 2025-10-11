@@ -55,11 +55,11 @@ Com o UTFperdido, a experiência se torna mais simples e rápida. O usuário pod
 
 ***2.1. Requisitos Funcionais***
 
-<img width="1280" height="719" alt="4-Photoroom" src="https://github.com/user-attachments/assets/20689830-c383-4755-a9c1-2f7e52f84706" />
+<img width="1280" height="719" alt="4-Photoroom" src="https://github.com/user-attachments/assets/0b25bf74-8c1f-46c9-8119-268aec374a97" />
 
 ***2.2. Requisitos Não Funcionais***
 
-<img width="1280" height="719" alt="5-Photoroom" src="https://github.com/user-attachments/assets/6ec96287-527b-49c5-aad4-4a3569af0627" />
+<img width="1280" height="719" alt="5-Photoroom" src="https://github.com/user-attachments/assets/3c62b1bb-f1ce-461c-a72b-809cce1e5bc2" />
 
 ***2.3. Perguntas***
 
