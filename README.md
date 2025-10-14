@@ -73,7 +73,6 @@ Com o UTFperdido, a experiência se torna mais simples e rápida. O usuário pod
 
 <img width="1280" height="719" alt="Requisitos de Software-Photoroom" src="https://github.com/user-attachments/assets/e56983a4-051b-42e0-a2c4-0540377f182a" />
 
-
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
 *<Imagem, arquivo (PDF), link com Diagrama de Caso de Uso.>*
