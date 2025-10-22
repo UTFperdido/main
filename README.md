@@ -54,11 +54,9 @@ Com o UTFperdido, a experiência se torna mais simples e rápida. O usuário pod
 ## 2. Documentos gerais no repositório
 
 ***2.1. Requisitos Funcionais***
-
 <img width="1280" height="719" alt="4-Photoroom" src="https://github.com/user-attachments/assets/0b25bf74-8c1f-46c9-8119-268aec374a97" />
 
 ***2.2. Requisitos Não Funcionais***
-
 <img width="1280" height="719" alt="5-Photoroom" src="https://github.com/user-attachments/assets/3c62b1bb-f1ce-461c-a72b-809cce1e5bc2" />
 
 ***2.3. Perguntas***
@@ -71,7 +69,6 @@ Com o UTFperdido, a experiência se torna mais simples e rápida. O usuário pod
 *<Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>*
 
 ***2.5. Histórias do Usuário***
-
 <img width="1280" height="719" alt="Requisitos de Software-Photoroom" src="https://github.com/user-attachments/assets/0a445124-799e-4f0e-ae50-56bcfd122455" />
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
