@@ -63,7 +63,8 @@ Com o UTFperdido, a experiência se torna mais simples e rápida. O usuário pod
 
 ***2.3. Perguntas***
 
-*<Arquivo com as perguntas realizadas na entrevista .>*
+[Entrevista.pdf](https://github.com/user-attachments/files/23045403/Entrevista.pdf)
+
 
 ***2.4. Entrevista***
 
@@ -75,14 +76,12 @@ Com o UTFperdido, a experiência se torna mais simples e rápida. O usuário pod
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
-*<Imagem, arquivo (PDF), link com Diagrama de Caso de Uso.>*
+[Diagrama de Caso de Uso.pdf](https://github.com/user-attachments/files/23045359/Diagrama.de.Caso.de.Uso.pdf)
 
 ***2.7. Diagramas de Atividades***
 
-*<Imagem, arquivo (PDF), link com Diagrama de Atividades.>*
+[Diagrama_Atividade.pdf](https://github.com/user-attachments/files/23045370/Diagrama_Atividade.pdf)
 
 ***2.8. Protótipos***
 
-*<Imagem, arquivo (PDF), link com Protótipo.>*
-
-[1] “Glossário da _USina_”, <_id_doc glossário_>, Versão <_versão_>. Localização: <_localização_>.
+[Prototipo.pdf](https://github.com/user-attachments/files/23045346/Prototipo.pdf)
