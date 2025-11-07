@@ -68,6 +68,11 @@ Com o UTFperdido, a experiência se torna mais simples e rápida. O usuário pod
 
 *<Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>*
 
+<a href="https://drive.google.com/file/d/1Wx18k_roH75JS8wHGJuIEwPMUg-oRezo/view?usp=sharing">Link da gravação da Entrevista</a>
+
+
+<a href="https://drive.google.com/file/d/13X5cuHH0Yu80zmiVVE_s-Xw3_bM_GA3Z/view?usp=drive_link">Link da gravação da Entrevista</a>
+
 ***2.5. Histórias do Usuário***
 <img width="1280" height="719" alt="Requisitos de Software-Photoroom" src="https://github.com/user-attachments/assets/0a445124-799e-4f0e-ae50-56bcfd122455" />
 
