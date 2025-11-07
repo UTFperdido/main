@@ -66,9 +66,9 @@ Com o UTFperdido, a experiência se torna mais simples e rápida. O usuário pod
 
 ***2.4. Entrevista***
 
-<a href="https://drive.google.com/file/d/1Wx18k_roH75JS8wHGJuIEwPMUg-oRezo/view?usp=sharing">Link da gravação da Entrevista</a>
+<a href="https://drive.google.com/file/d/1Wx18k_roH75JS8wHGJuIEwPMUg-oRezo/view?usp=sharing">Link da entrevista transcrita</a>
 
-<a href="https://drive.google.com/file/d/13X5cuHH0Yu80zmiVVE_s-Xw3_bM_GA3Z/view?usp=drive_link">Link da gravação da Entrevista</a>
+<a href="https://drive.google.com/file/d/13X5cuHH0Yu80zmiVVE_s-Xw3_bM_GA3Z/view?usp=drive_link">Link da gravação da entrevista</a>
 
 ***2.5. Histórias do Usuário***
 <img width="1280" height="719" alt="Requisitos de Software-Photoroom" src="https://github.com/user-attachments/assets/0a445124-799e-4f0e-ae50-56bcfd122455" />
