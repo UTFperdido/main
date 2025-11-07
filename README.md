@@ -14,7 +14,7 @@ Integrantes:
 - Carlos Eduardo Gonçalves (Carloss0101)
 - João Caetano Biagio Lins (jcaetano01)
 - Otávio Cezar Neves (Otavioneves1)
-- Thales Kohki Hasegawa (kohki-ka)
+- Thales Kohki Hasegawa (kohki-ha)
 
 ***1.2.  Nome do Sistema***
 
@@ -66,10 +66,7 @@ Com o UTFperdido, a experiência se torna mais simples e rápida. O usuário pod
 
 ***2.4. Entrevista***
 
-*<Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>*
-
 <a href="https://drive.google.com/file/d/1Wx18k_roH75JS8wHGJuIEwPMUg-oRezo/view?usp=sharing">Link da gravação da Entrevista</a>
-
 
 <a href="https://drive.google.com/file/d/13X5cuHH0Yu80zmiVVE_s-Xw3_bM_GA3Z/view?usp=drive_link">Link da gravação da Entrevista</a>
 
