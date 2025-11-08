@@ -89,4 +89,5 @@ A antrevista foi realizada com o estudante Leonardo Conde do sexto período de E
 
 ***2.9. Diagrama de Classes***
 
-<img width="1834" height="1336" alt="DiagramaClasses" src="https://github.com/user-attachments/assets/41511e83-77ee-4230-9ac7-e4cdaede96f2" />
+[DiagramaClasses.zip](https://github.com/user-attachments/files/23428465/DiagramaClasses.zip)
+
