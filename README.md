@@ -86,3 +86,6 @@ A antrevista foi realizada com o estudante Leonardo Conde do sexto período de E
 ***2.8. Protótipos***
 
 [Prototipo.pdf](https://github.com/user-attachments/files/23045346/Prototipo.pdf)
+
+***2.9. Diagrama de Classes***
+
